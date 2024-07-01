@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jishnu1rks
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning on testing in react
-- 💞️ I’m looking to collaborate on react projects
-- 📫 How to reach me @jishnukrishnan30@gmail.com
+- 👋 Hi, I’m `Jishnu Krishnan`
+- 👀 I’m `Fullstack Developer`, interested in `React`, `Node`, `Next JS`, `User Interface`
+- 🌱 I’m currently learning `Astro`, `Python`
+- 💞️ I’m looking to collaborate on Web based projects
+- 📫 How to reach me https://www.linkedin.com/in/jishnu-krishnan
 
 <!---
 jishnu1rks/jishnu1rks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
